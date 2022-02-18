@@ -1,0 +1,19 @@
+{
+  "name": "jobsapi-mern-stack-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourabhjo7/jobsApi-Mern-stack-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourabhjo7/jobsApi-Mern-stack-/issues"
+  },
+  "homepage": "https://github.com/sourabhjo7/jobsApi-Mern-stack-#readme"
+}
